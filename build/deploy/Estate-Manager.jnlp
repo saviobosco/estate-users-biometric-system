@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Estate-Manager.jnlp">
+  <information>
+    <title>Estate-Manager</title>
+    <vendor>griffontech.nig</vendor>
+    <description>ParkViewEstateBiometricSystem</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Estate-Manager.jar" size="1943618" download="eager" />
+    <jar href="libs\dpotapi.jar" size="58858" download="eager" />
+    <jar href="libs\dpotjni.jar" size="11465" download="eager" />
+    <jar href="libs\httpclient5-5.0.3.jar" size="775798" download="eager" />
+    <jar href="libs\httpcore5-5.0.2.jar" size="809733" download="eager" />
+    <jar href="libs\httpcore5-h2-5.0.2.jar" size="225863" download="eager" />
+    <jar href="libs\javax.json-1.1.4.jar" size="128770" download="eager" />
+    <jar href="libs\slf4j-api-1.7.9.jar" size="32121" download="eager" />
+    <jar href="libs\slf4j-simple-1.7.9.jar" size="10704" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="0" height="0" main-class="application.Main"  name="ParkViewEstateBiometricSystem" />
+  <update check="background"/>
+</jnlp>

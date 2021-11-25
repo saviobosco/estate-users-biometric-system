@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER"/>
+	<classpathentry kind="lib" path="src/application/dpotapi.jar"/>
+	<classpathentry kind="lib" path="src/application/dpotjni.jar"/>
+	<classpathentry kind="lib" path="src/application/httpclient5-5.0.3.jar"/>
+	<classpathentry kind="lib" path="src/application/httpcore5-5.0.2.jar"/>
+	<classpathentry kind="lib" path="src/application/javax.json-1.1.4.jar"/>
+	<classpathentry kind="lib" path="src/application/httpcore5-h2-5.0.2.jar"/>
+	<classpathentry kind="lib" path="src/application/slf4j-api-1.7.9.jar"/>
+	<classpathentry kind="lib" path="src/application/slf4j-simple-1.7.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
